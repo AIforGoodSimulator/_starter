@@ -138,4 +138,3 @@ Reusable platform
 * These approaches are of course not mutually exclusive!
 
 # Team structure
-a

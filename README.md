@@ -56,3 +56,38 @@ Actions for DB
 Duration
 * August –October 2020, in 2-week sprints
 Abstract User Interface (AUI) meta-models that facilitate the different levels of abstraction between the underlying models
+
+# Scope of work
+Categories
+* Machine learning model engineering
+  * Model implementation
+  * Model refactoring
+  * Translation to Python
+  * Model server upgrade
+* Backend
+  * Azure cloud instance setup and admin
+  * AKS DevOps setup
+  * Database setup and admin
+  * Architecture design
+* Frontend
+  * Interactive visualisation in plotly.dash / flask
+  * Web app foundations (e.g. access control, menu)
+  * Design and UI/UX review and analysis
+* QA
+  * Front / back / mobile
+  * CI / CD
+* Agile
+  * Team of scrum masters
+  * Agile ceremonies
+* Communications
+  * Marketing and communications
+  * Communities of Practice (CoP)
+* Product management
+  * Liaising with AI for Good team
+  * Feedback from end-users
+  * High-level planning
+  * Student mentorship
+
+/* Scope of work subject to change depending on requirements
+
+# Technical environment

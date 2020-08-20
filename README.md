@@ -216,3 +216,33 @@ Scope of work
   * Support team lead in agile ceremonies, task tracking, etc.
 
 \* Team scope subject to change depending on requirements
+
+# To-do: team members
+Fill in the survey (link–deadline 14-Aug)
+* Confirm your time commitment (at least 3-4 hours per week, Aug-Oct)
+* Confirm approval from your Line Manager
+* Provide your personal email address to connect to tools
+
+Register tools
+* Please register using your personal email address (where appropriate)
+  * Slack (collaboration and messaging)
+  * GitHub (source code repo)
+  * Azure (cloud infrastructure for model server, Jupyternotebooks and code development)
+  * Notion (document and task management)
+* Test access (outside DB’s infrastructure / firewall)
+
+Get hands-on
+* You should receive an email to confirm which team you are in
+* Get familiarise the high-level goals at
+  * Team level
+  * Project level
+* Be lightweight agile
+  * Scrum ceremonies (stand-up, review and planning)
+  * Task update in the Kanban board
+* Contribute
+* Share in social media, #dbtechhackathons
+
+Attend meetings
+* Team planning (mandatory)
+* Seminar and talk
+* Presentation / demo of progress so far

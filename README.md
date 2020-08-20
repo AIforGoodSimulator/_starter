@@ -148,8 +148,36 @@ AI for Good
 * DB is going to co-lead the product development with AI for Good
 * While the design, engineering and delivery the simulator are recognised as “Product Team” concerns, DB assistance in other areas is also welcome and encouraged. 
 
-Product team—Project lead—John Barclay (CRO, DB)—Antoinette Lynch (S&IN, DB) (Consulting)—Alice Piterova(MD, AIforGood) (Consulting)—Project management—Sam Meeson-Frizelle(Product Manager, AIforGood)—Peter Hung (S&IN, DB)—Billy Zhao (CTO, AI4Good) (Consulting)—Fabian Rugamer (Microsoftliaison representative)—Communications—Mary Yucedel(Comms& marketing)—Fredrika Otterstrom (Communities of Practice)
+Product team
+* Project lead
+  * John Barclay (CRO, DB)
+  * Antoinette Lynch (S&IN, DB) (Consulting)
+  * Alice Piterova(MD, AIforGood) (Consulting)
+* Project management
+  * Peter Hung (S&IN, DB)
+  * Sam Meeson-Frizelle (Product Manager, AIforGood)
+  * Billy Zhao (CTO, AI4Good) (Consulting)
+  * Fabian Rugamer (Microsoftliaison representative)
+* Communications
+  * Mary Yucedel(Comms& marketing)
+  * Fredrika Otterstrom (Communities of Practice)
 
-Technical development—AI / machine learning model—Agent-based model—Compartment model—Network model—Research & Development—Backend—Architecture—Cloud & infra—Database—Frontend—Web & vis—Design & UI/UX
+Technical development
+* AI / machine learning model
+  * Agent-based model
+  * Compartment model
+  * Network model
+  * Research & Development
+* Backend
+  * Architecture
+  * Cloud & infra
+  * Database
+* Frontend
+  * Web & vis
+  * Design & UI/UX
+* QA
+  * QA front / back / mobile
+* Agile
+  * Scrum master
 
 \* Team structure subject to change depending on requirements

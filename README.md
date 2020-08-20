@@ -246,3 +246,32 @@ Attend meetings
 * Team planning (mandatory)
 * Seminar and talk
 * Presentation / demo of progress so far
+
+# To-do: team lead / consulting*
+Fill in the survey (link–deadline 14-Aug)
+* Confirm your time commitment (at least 3-4 hours per week, Aug-Oct)
+* Confirm approval from your Line Manager
+* Provide your personal email address to connect to tools
+
+Register tools
+* Please register using your personal email address (where appropriate)
+  * Slack (collaboration and messaging)
+  * GitHub (source code repo)
+  * Azure (cloud infrastructure for model server, Jupyternotebooks and code development)
+  * Notion (document and task management)
+* Test access (outside DB’s infrastructure / firewall)
+
+Get hands-on
+* As with team members ‘Get hands-on’, plus
+* Assign tasks to members (including yourself)
+* Manage standby resources
+* Student mentorship (optional)
+
+Attend meetings
+* Project planning (mandatory)
+  * Update progress
+  * Agree high-level objectives
+* Seminar and talk
+* Presentation / demo of progress so far
+
+\* Consulting are senior team members with possibly less time available for contribution

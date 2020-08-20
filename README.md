@@ -218,7 +218,7 @@ Scope of work
 \* Team scope subject to change depending on requirements
 
 # To-do: team members
-Fill in the survey (link–deadline 14-Aug)
+Fill in the survey (deadline 14-Aug)
 * Confirm your time commitment (at least 3-4 hours per week, Aug-Oct)
 * Confirm approval from your Line Manager
 * Provide your personal email address to connect to tools
@@ -248,7 +248,7 @@ Attend meetings
 * Presentation / demo of progress so far
 
 # To-do: team lead / consulting*
-Fill in the survey (link–deadline 14-Aug)
+Fill in the survey (deadline 14-Aug)
 * Confirm your time commitment (at least 3-4 hours per week, Aug-Oct)
 * Confirm approval from your Line Manager
 * Provide your personal email address to connect to tools
@@ -332,3 +332,4 @@ For team leads
 * Virtual mentoring
 
 # Social media
+\#dbtechhackathon

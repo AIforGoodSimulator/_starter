@@ -275,3 +275,17 @@ Attend meetings
 * Presentation / demo of progress so far
 
 \* Consulting are senior team members with possibly less time available for contribution
+
+# Student mentorship
+Mentee
+* Arkwright Scholars (UK)
+* STEMettes(UK)
+Goals
+* Team-working
+* Skill upgrade
+* Experience in real project environment
+Tasks
+* Observers or participants in team meetings
+* Regular 1-to-1s
+Interested?
+* Please contact Mary Yucedal

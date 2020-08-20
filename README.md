@@ -89,7 +89,7 @@ Categories
   * High-level planning
   * Student mentorship
 
-/* Scope of work subject to change depending on requirements
+\* Scope of work subject to change depending on requirements
 
 # Technical environment
 * Languages

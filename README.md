@@ -4,9 +4,11 @@ DB New starter pack and project overview
 # Hack from home AI for Good Simulator
 Starter Pack
 Content
-* Executive summary
-* Welcome!
-* What we will do
+* Getting started
+  * Executive summary
+  * Welcome!
+  * What we will do
+* Approach
 * Scope of work
 * Technical environment
 * Conceptual architecture

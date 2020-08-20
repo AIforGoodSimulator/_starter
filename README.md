@@ -129,6 +129,7 @@ Design
 Challenge
 * The Model Server has been developed by DB volunteers, jointly with the AI For Good community, to run any supported model with flexibly defined parameter configuration, and render predictions and visualisations on a web application. The Model Server approach seeks to create a pluggable model layer and standardised parameter handling, whilst rendering interactive visualisations and reports via a web application.
 * One of the key challenges is to make more models available and to extend the flexibility, accuracy and speed. In taking a model in a language other than Python, we are faced with challenges as to how to integrate with Model Server. 
+
 Reusable platform
 * Approaches include:
   * re-write (and re-factor) the model in Python. This requires SME access to understand the model and conversancy with packages required to re-code. The re-written model must respect the parameter and run interfaces and be re-factored to attain required separation

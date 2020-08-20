@@ -1,8 +1,13 @@
 # _starter
 New starter pack and project overview
 
-# Hack from home
-# AI for Good Simulator – Starter Pack
+# Hack from home AI for Good Simulator
+Starter Pack
+Content
+* Executive summary
+* Welcome!
+* What we will do
+
 
 # Executive summary
 Deutsche Bank will help model COVID-19
@@ -18,7 +23,7 @@ Introduction
 * DB volunteers and others are welcome to join, collaborate and contribute. Microsoft have kindly provided a dedicated Azure cloud compute/storage environment, based on DB Hackathon.
 * This starter pack will provide you the information you need to start the journey. 
 
-# Coronavirus simulator
+Coronavirus simulator
 * The challenge is to model and understand the dynamics and variables or the spread of disease (COVID-19) using data science and mathematical models. In particular there are three models, in varying stages of development and in a number of programming languages, for simulating coronavirus spread and effects in refugee camps, based on configurable camp parameters and inputs.
 * The initial ask with respect to the DB volunteers has centred around providing assistance for:
   - Visualisation

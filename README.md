@@ -280,12 +280,55 @@ Attend meetings
 Mentee
 * Arkwright Scholars (UK)
 * STEMettes(UK)
+
 Goals
 * Team-working
 * Skill upgrade
 * Experience in real project environment
+
 Tasks
 * Observers or participants in team meetings
 * Regular 1-to-1s
+
 Interested?
 * Please contact Mary Yucedal
+
+# Reference links
+Project
+* AI for Good
+* AI for Good Simulator
+* Confluence(DB only)
+
+Collaboration
+* Slack
+* GitHub
+* Notion
+
+SME
+* SEIR model
+* Epidemic simulation
+
+Machine learning models
+* Agent-based model
+* Compartment model
+* Network model
+
+Cloud and infrastructure
+* Azure
+* AKS
+* MongoDB
+* Microservices
+
+Web and visualisation
+* Plotly-Dash
+* Flask
+
+Agile
+* Manifesto
+* Ceremonies
+
+For team leads
+* Mobilising volunteers
+* Virtual mentoring
+
+# Social media

@@ -1,5 +1,5 @@
 # _starter
-New starter pack and project overview
+DB New starter pack and project overview
 
 # Hack from home AI for Good Simulator
 Starter Pack
@@ -7,7 +7,16 @@ Content
 * Executive summary
 * Welcome!
 * What we will do
-
+* Scope of work
+* Technical environment
+* Conceptual architecture
+* Model server
+* Team structure
+* Team scope
+* To-do
+* Student mentorship
+* Reference links
+* Social media
 
 # Executive summary
 Deutsche Bank will help model COVID-19
@@ -31,3 +40,4 @@ Coronavirus simulator
   - Technical and Infrastructure
 * While the design, engineering and delivery of such are recognised as “Product Team” concerns, DB assistance in other areas is also welcome and encouraged. 
 
+# What we will do

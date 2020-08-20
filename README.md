@@ -91,3 +91,19 @@ Categories
 /* Scope of work subject to change depending on requirements
 
 # Technical environment
+* Languages
+  * Python (foundational language for models, model server and core infrastructure)
+  * Netlogo(Agent based simulation model -note that the predominant python equivalent is mesa)
+  * R (used for the Network Model)
+* Data layer
+  * simple JSON parameter document model
+  * MongoDB (Community version)
+  * Others : python, pandas, sklearn
+* Cloud, compute and storage
+  * Microsoft Azure cloud
+  * Azure Kubernetes Service (AKS)
+  * Azure cloud shell/CLI
+  * Azure data science Virtual Machines (VMs)
+* Visualisation
+  * Plotly-Dash / Flask
+  * pandas, Seaborn, Flask

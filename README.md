@@ -112,16 +112,31 @@ Categories
 # Conceptual architectural diagram
 ![Architecture](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc7e06a4-f0b4-4651-a6af-070b390cc31d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200820T183507Z&X-Amz-Expires=86400&X-Amz-Signature=71e40dd20dc5a45c62af8e1ea5bbde3e0eac67d812cf5d6059013a024b55aed8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-# Model server (1/2)
+# Model server
 Purpose
 * A pluggable model layer and standardised parameter handling
 * A centralised place to store and run various models based on specified algorithms
 * An application that exposes a standard model API via REST microservices
+
 Design
 * Top level packages:
-* models -COVID-19 models and model registry
-* params–interface to parameter storage and retrieval
-* runner -console runner for single (one-off) or multiple profiles (batch)
-* webapp-web application runner (with shared state and cache storage) and viewer (configand reporting pages)
-Details in Readme.MD from GitHub repo
-http://ai4good-sim2.azurewebsites.net/sim/run_model
+  * models -COVID-19 models and model registry
+  * params–interface to parameter storage and retrieval
+  * runner -console runner for single (one-off) or multiple profiles (batch)
+  * webapp-web application runner (with shared state and cache storage) and viewer (configand reporting pages)
+* Details in Readme.MD from GitHub repo
+* To try: http://ai4good-sim2.azurewebsites.net/sim/run_model
+
+Challenge
+* The Model Server has been developed by DB volunteers, jointly with the AI For Good community, to run any supported model with flexibly defined parameter configuration, and render predictions and visualisations on a web application. The Model Server approach seeks to create a pluggable model layer and standardised parameter handling, whilst rendering interactive visualisations and reports via a web application.
+* One of the key challenges is to make more models available and to extend the flexibility, accuracy and speed. In taking a model in a language other than Python, we are faced with challenges as to how to integrate with Model Server. 
+
+Reusable platform
+* Approaches include:
+  * re-write (and re-factor) the model in Python. This requires SME access to understand the model and conversancy with packages required to re-code. The re-written model must respect the parameter and run interfaces and be re-factored to attain required separation
+  * separate algorithms from parameters (e.g. SEIR) and input data (e.g. camp data) such that new or updated models can be introduced with minimal changes from the model server
+  * create a binding layer whereby model activation and parameterisation can be controlled from Python via an adapter layer
+  * potentially extend model server to non-COVID-19 use cases in future
+* These approaches are of course not mutually exclusive!
+
+# Team structure

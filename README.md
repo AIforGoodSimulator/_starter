@@ -1,5 +1,6 @@
 # _starter
 DB New starter pack and project overview
+* More information is available from https://www.notion.so/aiforgoodsimulator/
 
 # Hack from home AI for Good Simulator
 Starter Pack
@@ -107,3 +108,6 @@ Categories
 * Visualisation
   * Plotly-Dash / Flask
   * pandas, Seaborn, Flask
+
+# Conceptual architectural diagram
+https://www.notion.so/aiforgoodsimulator/Backend

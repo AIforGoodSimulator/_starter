@@ -113,3 +113,15 @@ Categories
 ![Architecture](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc7e06a4-f0b4-4651-a6af-070b390cc31d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200820T183507Z&X-Amz-Expires=86400&X-Amz-Signature=71e40dd20dc5a45c62af8e1ea5bbde3e0eac67d812cf5d6059013a024b55aed8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 # Model server (1/2)
+Purpose
+* A pluggable model layer and standardised parameter handling
+* A centralised place to store and run various models based on specified algorithms
+* An application that exposes a standard model API via REST microservices
+Design
+* Top level packages:
+* models -COVID-19 models and model registry
+* params–interface to parameter storage and retrieval
+* runner -console runner for single (one-off) or multiple profiles (batch)
+* webapp-web application runner (with shared state and cache storage) and viewer (configand reporting pages)
+Details in Readme.MD from GitHub repo
+http://ai4good-sim2.azurewebsites.net/sim/run_model

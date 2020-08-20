@@ -108,8 +108,10 @@ Categories
   * Plotly-Dash / Flask
   * pandas, Seaborn, Flask
 
-# Conceptual architectural diagram
+# Conceptual architectural diagram*
 ![Architecture](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc7e06a4-f0b4-4651-a6af-070b390cc31d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200820T183507Z&X-Amz-Expires=86400&X-Amz-Signature=71e40dd20dc5a45c62af8e1ea5bbde3e0eac67d812cf5d6059013a024b55aed8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
+
+\* System architecture subject to change depending on requirements
 
 # Model server
 Purpose
@@ -181,3 +183,36 @@ Technical development
   * Scrum master
 
 \* Team structure subject to change depending on requirements
+
+# Team scope*
+Scope of work
+* Project lead
+  * High-level direction
+  * Partner engagement
+* Project management
+  * Liaison with NGO and technical partners
+  * Team administration and student mentorship
+  * Tools and PMO
+  * Resource management
+* Communications
+  * Communications and marketing in DB
+* AI / machine learning model
+  * Implement and expand 3 modelling approaches
+  * Refactor and standardise in Python
+  * Ensure compatibility with model server
+* Backend
+  * Design and implement scalable architecture
+  * Setup and administrate cloud environment
+  * Setup and manage database for optimal configuration
+* Frontend
+  * Setup web application foundation (e.g. access control)
+  * Create and update interaction visualisations
+  * Ensure design & UI/UX meeting use case requirements
+* QA
+  * Quality assurance at the front, back and mobile sides
+  * Establish model testing metrics and baselines
+* Agile
+  * Scrum master allocated to each technical teams
+  * Support team lead in agile ceremonies, task tracking, etc.
+
+\* Team scope subject to change depending on requirements

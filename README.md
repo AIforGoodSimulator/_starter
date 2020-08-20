@@ -110,5 +110,6 @@ Categories
   * pandas, Seaborn, Flask
 
 # Conceptual architectural diagram
-https://www.notion.so/aiforgoodsimulator/Backend-1794c78df2c0446a8afd0e979d79a020#2b27a5894e07435a81b5fb040efc7a93
+![Architecture](https://www.notion.so/aiforgoodsimulator/Backend-1794c78df2c0446a8afd0e979d79a020#2b27a5894e07435a81b5fb040efc7a93)
+
 

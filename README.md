@@ -9,18 +9,20 @@ Content
   * Welcome!
   * What we will do
 * Approach
-  * Scope of work
+  * Scope of work*
   * Technical environment
-  * Conceptual architecture
+  * Conceptual architecture*
   * Model server
 * Volunteering-as-a-team
-  * Team structure
-  * Team scope
+  * Team structure*
+  * Team scope*
 * What's next
   * To-do
   * Student mentorship
   * Reference links
   * Social media
+
+\* Details subject to change depending on requirements
 
 # Executive summary
 Deutsche Bank will help model COVID-19

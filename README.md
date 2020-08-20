@@ -45,3 +45,12 @@ Coronavirus simulator
 * While the design, engineering and delivery of such are recognised as “Product Team” concerns, DB assistance in other areas is also welcome and encouraged. 
 
 # What we will do
+Actions for DB
+* Introduce data quality standards for clean and repeatable model parameterisations and substitutions in the data management layer
+* Reduce complexity of source code by using a single language, such as Python
+* Focus on widely-used, open source tools & frameworks, such as Python, Plotly-dash, Flask framework and PyCharm
+* User Interface (UI) Design
+
+Duration
+* August –October 2020, in 2-week sprints
+Abstract User Interface (AUI) meta-models that facilitate the different levels of abstraction between the underlying models

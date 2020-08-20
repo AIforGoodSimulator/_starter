@@ -110,6 +110,6 @@ Categories
   * pandas, Seaborn, Flask
 
 # Conceptual architectural diagram
-![Architecture](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e5ff91f3-40fe-4831-97e1-d4600e87ec15/20200811_hack4home_starter_pack.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200820T104116Z&X-Amz-Expires=86400&X-Amz-Signature=4f37fd1e500e33986df4a72b6eed8cd179e3dba5f9b59d12adf6fdcd7c3a9dc8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Starter%2520Pack.pdf%22)
+![Architecture](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc7e06a4-f0b4-4651-a6af-070b390cc31d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200820%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200820T183507Z&X-Amz-Expires=86400&X-Amz-Signature=71e40dd20dc5a45c62af8e1ea5bbde3e0eac67d812cf5d6059013a024b55aed8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 # Model server (1/2)

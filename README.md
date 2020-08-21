@@ -295,29 +295,29 @@ Interested?
 
 # Reference links
 Project
-* AI for Good
-* AI for Good Simulator
-* Confluence(DB only)
+* AI for Good - https://www.aiforgood.co.uk/
+* AI for Good Simulator - https://www.aiforgoodsimulator.com/
+* Confluence - (DB only)
 
 Collaboration
-* Slack
-* GitHub
-* Notion
+* Slack - https://aiforgood-simulator.slack.com/
+* GitHub - https://github.com/AIforGoodSimulator/
+* Notion - https://www.notion.so/aiforgoodsimulator
 
 SME
-* SEIR model
-* Epidemic simulation
+* SEIR model - https://sites.me.ucsb.edu/~moehlis/APC514/tutorials/tutorial_seasonal/node4.html
+* Epidemic simulation - https://www.frontiersin.org/articles/10.3389/fpubh.2020.00230/full
 
 Machine learning models
-* Agent-based model
-* Compartment model
-* Network model
+* Agent-based model - https://en.wikipedia.org/wiki/Agent-based_model
+* Compartment model - https://en.wikipedia.org/wiki/Compartmental_models_in_epidemiology
+* Network model - http://statnet.org/nme/d0.html
 
 Cloud and infrastructure
-* Azure
-* AKS
-* MongoDB
-* Microservices
+* Azure - https://azure.microsoft.com/
+* AKS - https://azure.microsoft.com/en-us/services/kubernetes-service/
+* MongoDB - https://www.mongodb.com/
+* Microservices - https://en.wikipedia.org/wiki/Microservices
 
 Web and visualisation
 * Plotly-Dash

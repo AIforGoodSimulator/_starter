@@ -332,4 +332,5 @@ For team leads
 * Virtual mentoring
 
 # Social media
+![Social media](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/44506439-f0a5-410b-b039-9617ff19b27f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200821%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200821T073937Z&X-Amz-Expires=86400&X-Amz-Signature=00457dce846db3c2020f7fde29123531771c5b0df9b4300a0e35248b1fc5da9b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 \#dbtechhackathon

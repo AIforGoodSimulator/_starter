@@ -282,7 +282,7 @@ Mentee
 * STEMettes(UK)
 
 Goals
-* Team-working
+* Team-working (3-4 hours/week to 1.5 days/week)
 * Skill upgrade
 * Experience in real project environment
 

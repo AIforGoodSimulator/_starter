@@ -279,7 +279,7 @@ Attend meetings
 # Student mentorship
 Mentee
 * Arkwright Scholars (UK)
-* STEMettes(UK)
+* STEMettes (UK)
 
 Goals
 * Team-working (3-4 hours/week to 1.5 days/week)

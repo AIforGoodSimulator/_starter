@@ -1,6 +1,7 @@
 # _starter
 DB New starter pack and project overview
 * More information is available from https://www.notion.so/aiforgoodsimulator/
+* Check out the Reference links section for further information
 
 # Hack from home AI for Good Simulator - Starter Pack
 Content

@@ -53,10 +53,10 @@ Actions for DB
 * Reduce complexity of source code by using a single language, such as Python
 * Focus on widely-used, open source tools & frameworks, such as Python, Plotly-dash, Flask framework and PyCharm
 * User Interface (UI) Design
+* Abstract User Interface (AUI) meta-models that facilitate the different levels of abstraction between the underlying models
 
 Duration
 * August –October 2020, in 2-week sprints
-Abstract User Interface (AUI) meta-models that facilitate the different levels of abstraction between the underlying models
 
 # Scope of work
 Categories

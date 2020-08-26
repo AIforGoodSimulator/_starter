@@ -240,7 +240,9 @@ Get hands-on
 * Be lightweight agile
   * Scrum ceremonies (stand-up, review and planning)
   * Task update in the Kanban board
-* Contribute
+* Contribute, e.g.
+  * Put in your research in Notion
+  * Collaborate and discuss with others in Slack
 * Share in social media, #dbtechhackathons
 
 Attend meetings

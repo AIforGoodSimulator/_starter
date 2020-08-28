@@ -64,6 +64,7 @@ Categories
   * Model implementation
   * Model refactoring
   * Translation to Python
+  * Model validation
   * Model server upgrade
 * Backend
   * Azure cloud instance setup and admin
@@ -170,6 +171,7 @@ Technical development
   * Agent-based model
   * Compartment model
   * Network model
+  * Model validation
   * Research & Development
 * Backend
   * Architecture

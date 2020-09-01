@@ -290,6 +290,7 @@ Goals
 * Team-working (3-4 hours/week to 1.5 days/week)
 * Skill upgrade
 * Experience in real project environment
+* Contribution to the AI for Good Simulator project
 
 Tasks
 * Observers or participants in team meetings

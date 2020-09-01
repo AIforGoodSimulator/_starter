@@ -203,6 +203,7 @@ Scope of work
   * Implement and expand 3 modelling approaches
   * Refactor and standardise in Python
   * Ensure compatibility with model server
+  * Validate model before deployment
 * Backend
   * Design and implement scalable architecture
   * Setup and administrate cloud environment

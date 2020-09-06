@@ -236,6 +236,7 @@ Register tools
 * Test access (outside DB’s infrastructure / firewall)
 
 Get hands-on
+* Stay committed and take step to resolve challenges
 * You should receive an email to confirm which team you are in
 * Get familiarise the high-level goals at
   * Team level

@@ -231,7 +231,7 @@ Register tools
 * Please register using your personal email address (where appropriate)
   * Slack (collaboration and messaging)
   * GitHub (source code repo)
-  * Azure (cloud infrastructure for model server, Jupyternotebooks and code development)
+  * Azure (cloud infrastructure for model server, Jupyter notebooks and code development)
   * Notion (document and task management)
 * Test access (outside DB’s infrastructure / firewall)
 
@@ -245,7 +245,7 @@ Get hands-on
   * Scrum ceremonies (stand-up, review and planning)
   * Task update in the Kanban board
 * Contribute, e.g.
-  * Put in your research in Notion
+  * Put your research in Notion
   * Collaborate and discuss with others in Slack
 * Share in social media, #dbtechhackathons
 
@@ -264,7 +264,7 @@ Register tools
 * Please register using your personal email address (where appropriate)
   * Slack (collaboration and messaging)
   * GitHub (source code repo)
-  * Azure (cloud infrastructure for model server, Jupyternotebooks and code development)
+  * Azure (cloud infrastructure for model server, Jupyter notebooks and code development)
   * Notion (document and task management)
 * Test access (outside DB’s infrastructure / firewall)
 
